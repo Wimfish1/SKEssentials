@@ -135,3 +135,10 @@ Permission: ``SKEssentials.deletewarn``<br>
 
 _________________
 
+Name: speed<br>
+Description: Sets player speed. <br>
+Usage: ``/speed <player> <number>`` <br>
+Permission: ``SKEssentials.speed``<br>
+
+_________________
+
