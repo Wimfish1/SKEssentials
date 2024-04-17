@@ -10,7 +10,9 @@ SKCord <a href="https://github.com/Fedox-die-Ente/skCord/releases">(Link Here)</
 
 # DOCUMENTATION BELOW 
 
+## Config Lines
 
+Discord Webhook Links: Line 102 | Line 120 | Line 134 | Line 163 | Line 253 | Line 278 
 
 
 Name: gmc<br>
