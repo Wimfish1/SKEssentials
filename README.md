@@ -2,6 +2,12 @@
 
 Made by Wimfish1 for Minecraft. Simplify comamnds and add essential tools to your server!
 
+# Terms Of Use: I kindly request very few things. 
+
+1. You are allowed to edit this Skript but I will not take responsibility for anything that breaks if you do
+
+2. You are NOT allowed to reupload, sell, distribute or claim that this is your Skript in any kind of way.
+
 # Requirements
 
 Skript <a href="https://github.com/SkriptLang/Skript/releases">(Link Here></a>
@@ -15,6 +21,8 @@ SKCord <a href="https://github.com/Fedox-die-Ente/skCord/releases">(Link Here)</
 Discord Webhook Links: ``Line 102 | Line 120 | Line 134 | Line 163 | Line 253 | Line 278``
 
 Discord Link: ``Line 383``
+
+MOTD: ``Line: 14``
 
 ## Command Documentation
 
@@ -374,6 +382,13 @@ _________________
 Name: workbench<br>
   Description: Opens a portable workbench<br>
   Usage: ``/workbench`` <br>
- <li> Permission: ``SKEssentials.workbench``<br></li>
+  Permission: ``SKEssentials.workbench``<br>
 
+_________________
+
+Name: anvil<br>
+  Description: Opens an anvil<br>
+  Usage: ``/anvil`` <br>
+  Permission: ``SKEssentials.anvil``<br>
+  
 _________________
