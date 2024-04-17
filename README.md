@@ -21,7 +21,7 @@ __________
 
 # LINKS
 
-<a href="https://github.com/Wimfish1/SKEssentials/wiki/Documentation">Documentation
-<a href="https:
+<a href="https://github.com/Wimfish1/SKEssentials/wiki/Documentation">Documentation</a><br>
+<a href="https://github.com/Wimfish1/SKEssentials/issues">Bugs</a>
 
 
