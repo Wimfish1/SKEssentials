@@ -374,6 +374,6 @@ _________________
 Name: workbench<br>
   Description: Opens a portable workbench<br>
   Usage: ``/workbench`` <br>
-  Permission: ``SKEssentials.workbench``<br>
+ <li> Permission: ``SKEssentials.workbench``<br></li>
 
 _________________
