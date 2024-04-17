@@ -261,3 +261,84 @@ Permission: ``SKEssentials.vanish``br>
 
 _________________
 
+Name: itemrename<br>
+Description: Renames your item. Does support colours <br>
+Usage: ``/itemrename <text>`` <br>
+aliases: /irename
+Permission: ``SKEssentials.itemrename``br>
+
+_________________
+
+Name: itemlore<br>
+Description: Sets the lore of your item. Does support colours <br>
+Usage: ``/itemlore <text>`` <br>
+aliases: /ilore
+Permission: ``SKEssentials.itemlore``br>
+
+_________________
+
+Name: weather<br>
+Description: Sets the weather in the players current world.<br>
+Usage: ``/weather <type>`` <br>
+Permission: ``SKEssentials.weather``br>
+
+_________________
+
+Name: suicide<br>
+Description: Causes you to die.<br>
+Usage: ``/suicide`` <br>
+Permission: ``SKEssentials.suicide``br>
+
+_________________
+
+Name: SKEssentials Reload<br>
+Description: Reloads the Skript.<br>
+Usage: ``/SKEssentials reload`` <br>
+Permission: ``SKEssentials.admin``br>
+
+_________________
+
+Name: EditSign<br>
+Description: Edits signs.<br>
+Usage: ``/editsign <line> <text>`` <br>
+aliases: ``/modifysign /modsign``
+Permission: ``SKEssentials.editsign``br>
+
+_________________
+
+Name: enderchest<br>
+Description: Opens your enderchest.<br>
+Usage: ``/enderchest`` <br>
+aliases: ``/ec``
+Permission: ``SKEssentials.enderchest``br>
+
+_________________
+
+Name: teleportall<br>
+Description: Teleports all players to you.<br>
+Usage: ``/teleportall`` <br>
+aliases: ``/tpall``
+Permission: ``SKEssentials.teleportall``br>
+
+_________________
+
+Name: kickall<br>
+Description: Kicks all players from the server..<br>
+Usage: ``/kickall`` <br>
+Permission: ``SKEssentials.kickall``br>
+
+_________________
+
+Name: time<br>
+Description: Sets the time in the players current world.<br>
+Usage: ``/time <time>`` <br>
+Permission: ``SKEssentials.time``br>
+
+_________________
+
+Name: offline tp<br>
+Description: Teleports you to the logout location of the player.<br>
+Usage: ``/offlinetp <player>`` <br>
+Permission: ``SKEssentials.offlinetp``br>
+
+_________________
