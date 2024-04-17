@@ -346,3 +346,10 @@ Usage: ``/offlinetp <player>`` <br>
 Permission: ``SKEssentials.offlinetp``br>
 
 _________________
+
+Name: destroyblock<br>
+Description: Destroys the block a player is looking at.<br>
+Usage: ``/destroyblock`` <br>
+Permission: ``SKEssentials.destroyblock``br>
+
+_________________
