@@ -12,3 +12,5 @@ Name: gmc<br>
 Description: Sets players gamemode to creative.<br>
 Usage: ``/gmc or /gmc <player>``<br>
 Permission: ``SKEssentials.gmc``<br>
+
+_________________
