@@ -142,3 +142,24 @@ Permission: ``SKEssentials.speed``<br>
 
 _________________
 
+Name: ci<br>
+Description: Clears yours or the specified players inventory. <br>
+Usage: ``/ci or /ci <player> `` <br>
+Permission: ``SKEssentials.clearinventory``<br>
+
+_________________
+
+Name: repair<br>
+Description: Repairs your held item. <br>
+Usage: ``/repair`` <br>
+Permission: ``SKEssentials.repair``<br>
+
+_________________
+
+Name: sudo<br>
+Description: Forces the specified player to run a command. <br>
+Usage: ``/sudo <player> <command>`` <br>
+Permission: ``SKEssentials.sudo``<br>
+Bypass Permission: ``SKEssentials.sudobypass``<br>
+
+_________________
