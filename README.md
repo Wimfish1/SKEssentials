@@ -14,3 +14,8 @@ Usage: ``/gmc or /gmc <player>``<br>
 Permission: ``SKEssentials.gmc``<br>
 
 _________________
+
+Name: gms<br>
+Description: Sets players gamemode to survival.<br>
+Usage: ``/gms or /gms <player>``<br>
+Permission: ``SKEssentials.gms``<br>
