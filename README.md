@@ -17,5 +17,11 @@ _____________
  <a href="https://github.com/SkriptLang/Skript/releases">Skript</a><br>
  <a href="https://github.com/Fedox-die-Ente/skCord/releases">SkCord</a>
 
+__________
+
+# LINKS
+
+<a href="https://github.com/Wimfish1/SKEssentials/wiki/Documentation">Documentation
+<a href="https:
 
 
