@@ -396,3 +396,32 @@ Name: anvil<br>
   Permission: ``SKEssentials.anvil``<br>
   
 _________________
+
+Name: sethome<br>
+  Description: Sets the players home<br>
+  Usage: ``/sethome <string>`` If string is not set the home will be set to default home<br>
+  Permission: ``SKEssentials.sethome``<br>
+  
+_________________
+
+Name: homes<br>
+  Description: Lists the players home<br>
+  Usage: ``/homes``<br>
+  Permission: ``SKEssentials.homes``<br>
+  
+_________________
+
+Name: delhome<br>
+  Description: Deletes the specified home<br>
+  Usage: ``/delhome <string>``<br>
+  Permission: ``SKEssentials.delhome``<br>
+  
+_________________
+
+Name: home<br>
+  Description: Teleports you to the specified home<br>
+  Usage: ``/home <string>``<br>
+  Permission: ``SKEssentials.home``<br>
+  
+_________________
+
