@@ -1,6 +1,6 @@
 # SKEssentials
 
-Made by Wimfish1 for Minecraft. Simplify comamnds and add essential tools to your server! Credit: EssentialsX for alot of the command ideas.
+Made by Wimfish1 for Minecraft. Simplify comamnds and add essential tools to your server! Credit: EssentialsX for alot of the command ideas. Everything was skripted by Wimfish1
 
 ________________
 
