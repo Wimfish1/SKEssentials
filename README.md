@@ -14,8 +14,8 @@ _____________
 
 # Requirements
 
-Skript <a href="https://github.com/SkriptLang/Skript/releases">(Link Here></a>
-SKCord <a href="https://github.com/Fedox-die-Ente/skCord/releases">(Link Here)</a>
+ <a href="https://github.com/SkriptLang/Skript/releases">Skript</a>
+ <a href="https://github.com/Fedox-die-Ente/skCord/releases">SkCord</a>
 
 
 # DOCUMENTATION BELOW 
