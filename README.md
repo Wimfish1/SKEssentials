@@ -15,7 +15,6 @@ Permission: SKEssentials.gmc
 
 ``Command: /gms <player> sets the players gamemode to surival.
 Usage: /gms or /gms <player>
-Permission: SKEssentials.gms
-``
+Permission: SKEssentials.gms``
 
 
