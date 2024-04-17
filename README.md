@@ -14,7 +14,7 @@ _____________
 
 # Requirements
 
- <a href="https://github.com/SkriptLang/Skript/releases">Skript</a>
+ <a href="https://github.com/SkriptLang/Skript/releases">Skript</a><br>
  <a href="https://github.com/Fedox-die-Ente/skCord/releases">SkCord</a>
 
 
