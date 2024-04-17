@@ -343,13 +343,28 @@ _________________
 Name: offline tp<br>
 Description: Teleports you to the logout location of the player.<br>
 Usage: ``/offlinetp <player>`` <br>
-Permission: ``SKEssentials.offlinetp``br>
+Permission: ``SKEssentials.offlinetp``<br>
 
 _________________
 
 Name: destroyblock<br>
 Description: Destroys the block a player is looking at.<br>
 Usage: ``/destroyblock`` <br>
-Permission: ``SKEssentials.destroyblock``br>
+Permission: ``SKEssentials.destroyblock``<br>
+
+_________________
+
+Name: clearchat<br>
+Description: Clears chat.<br>
+Usage: ``/clearchat`` <br>
+Permission: ``SKEssentials.clearchat``<br>
+
+_________________
+
+Name: mutechat<br>
+Description: Mutes the chat. (Disables talking for anyone without the bypass permission)<br>
+Usage: ``/mutechat`` <br>
+Permission: ``SKEssentials.mutechat``<br>
+Bypass Permission: ``SKEssentials.mutechat.bypass``<br>
 
 _________________
