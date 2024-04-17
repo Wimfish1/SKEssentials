@@ -160,6 +160,104 @@ Name: sudo<br>
 Description: Forces the specified player to run a command. <br>
 Usage: ``/sudo <player> <command>`` <br>
 Permission: ``SKEssentials.sudo``<br>
-Bypass Permission: ``SKEssentials.sudobypass``<br>
 
 _________________
+
+Name: broadcast<br>
+Description: Broadcast an Anonymous message. <br>
+Usage: ``/broadcast <text>`` <br>
+Permission: ``SKEssentials.broadcast``<br>
+
+_________________
+
+Name: afk<br>
+Description: Sets you to AFK. <br>
+Usage: ``/afk`` <br>
+Permission: ``SKEssentials.afk``<br>
+
+_________________
+
+Name: heal<br>
+Description: Heals you / the specified player. <br>
+Usage: ``/heal or /heal <player>`` <br>
+Permission: ``SKEssentials.heal``<br>
+
+_________________
+
+Name: feed<br>
+Description: Feeds you / the specified player. <br>
+Usage: ``/feed or /feed <player>`` <br>
+Permission: ``SKEssentials.feed``<br>
+
+_________________
+
+Name: discord<br>
+Description: Sends a embeded discord link (Config at line 384). <br>
+Usage: ``/discord>`` <br>
+Permission: ``N/A``br>
+
+_________________
+
+Name: setspawn<br>
+Description: Sets the spawn location to your current location. <br>
+Usage: ``/setspawn>`` <br>
+Permission: ``SKEssentials.setspawn``br>
+
+_________________
+
+Name: spawn<br>
+Description: Teleports the player to spawn. <br>
+Usage: ``/spawn>`` <br>
+Permission: ``SKEssentials.spawn``br>
+
+_________________
+
+Name: setwarp<br>
+Description: Sets a warp. <br>
+Usage: ``/setwarp <name>`` <br>
+Permission: ``SKEssentials.setwarp``br>
+
+_________________
+
+Name: delwarp<br>
+Description: Deletes a warp. <br>
+Usage: ``/delwarp <name>`` <br>
+Permission: ``SKEssentials.delwarp``br>
+
+_________________
+
+Name: warp<br>
+Description: Telports you to the specified warp. <br>
+Usage: ``/warp <name>`` <br>
+Permission: ``SKEssentials.warp``br>
+
+_________________
+
+Name: tpa<br>
+Description: Sends a tpa to specified player. <br>
+Usage: ``/tpa <player>`` <br>
+Permission: ``SKEssentials.tpa``br>
+
+_________________
+
+Name: tpaccept<br>
+Description: Accepts the tpa request. <br>
+Usage: ``/tpaccept`` <br>
+Permission: ``SKEssentials.tpaccept``br>
+
+_________________
+
+Name: tpdeny<br>
+Description: Denies the tpa request. <br>
+Usage: ``/tpdeny`` <br>
+Permission: ``SKEssentials.tpadeny``br>
+
+_________________
+
+Name: vanish<br>
+Description: Hides you from other players. <br>
+Usage: ``/vanish`` <br>
+Permission: ``SKEssentials.vanish``br>
+
+_________________
+
