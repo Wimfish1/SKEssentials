@@ -12,6 +12,7 @@ Made by Wimfish1 for Minecraft. Simplify comamnds and add essential tools to you
 Usage: /gmc or /gmc <player>
 Permission: SKEssentials.gmc
 ``
+
 ``Command: /gms <player> sets the players gamemode to surival.
 Usage: /gms or /gms <player>
 Permission: SKEssentials.gms
